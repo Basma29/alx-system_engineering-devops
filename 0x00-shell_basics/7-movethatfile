@@ -1,2 +1,2 @@
 #!/bin/bash
-echo'mv /tmp/betty /tmp/my_fisrt_directory/betty' >> 7-movethatfile
+mv /tmp/betty tmp/my_fisrt_directory/betty
